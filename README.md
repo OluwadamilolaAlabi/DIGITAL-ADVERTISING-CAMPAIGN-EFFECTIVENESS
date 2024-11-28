@@ -62,14 +62,17 @@ For data cleaning, analysis, and visualization, Microsoft Excel was employed. Ex
   ![REPORTING DASHBOARD](https://github.com/user-attachments/assets/eb28db4f-163f-4974-8b39-537d727381db)
 
  •	Discussion
+
 The analysis highlights that not all high-cost campaigns generate significant revenue, underscoring the importance of evaluating ROI alongside revenue figures for assessing campaign effectiveness. For example, Campaign A, although not the most expensive, achieved the highest ROI, indicating a cost-effective strategy. Conversely, Campaign C’s low ROI suggests a need for strategic revisions, potentially through budget reductions or enhancements in targeting and engagement.
 
 The observed correlation between costs and revenue indicates that, generally, higher expenditures tend to result in greater revenue, though this is not a universal truth. This analysis emphasizes the necessity for continuous performance assessments, as each campaign may respond differently based on factors such as audience engagement, banner sizes, and ad placements.
 
 •	Conclusion
+
 This analysis underscores the importance of data-driven decision-making in digital advertising. By evaluating metrics such as revenue, cost, and ROI, we identified which campaigns yield the highest returns and which ones require adjustments. Campaign A emerged as the top performer due to its high ROI, while Campaign C demonstrated potential for improvement. Moving forward, the digital marketing department should consider reallocating resources toward high-performing campaigns and exploring modifications for underperforming ones.
 
 •	Recommendations for Optimizing Digital Advertising Campaigns
+
 To enhance campaign performance, maximize ROI, and optimize budget allocation, the following recommendations are proposed:
 
 1. Increase Investment in High-ROI Campaigns: Given Campaign 1's success, consider allocating additional budget to scale its performance. Replicating its successful characteristics could yield even higher returns in future campaigns.
